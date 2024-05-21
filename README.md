@@ -1,3 +1,7 @@
+**In this project, using api data from "https://fakestoreapi.com"**
+
+### **Please Login using username and password in "https://fakestoreapi.com/users"**
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
